@@ -1,16 +1,51 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
-Currently, two official plugins are available:
+# 🌌 COSMOAR
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### ✦ INTERACT • EXPLORE • EXPERIENCE ✦
 
-## React Compiler
+**An interactive AR-inspired web experience powered by computer vision.**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<br>
 
-## Expanding the Oxlint configuration
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+</div>
+
+---
+
+## 🌌 About
+
+CosmoAR is an interactive web project exploring the intersection of **web development, computer vision, and AR-inspired interaction**.
+
+The project uses browser-based vision technology to experiment with natural, gesture-based interaction.
+
+---
+
+## ✨ Features
+
+- 🖐️ Hand Tracking
+- 📷 Camera Interaction
+- 🧠 Computer Vision
+- 🌌 AR-Inspired Experience
+- ⚡ Real-Time Interaction
+- ⚛️ React-Based Interface
+
+---
+
+## 🪐 How It Works
+
+```text
+📷 Camera
+    ↓
+🧠 MediaPipe Vision
+    ↓
+🖐️ Hand Detection
+    ↓
+⚡ Interaction Logic
+    ↓
+🌌 CosmoAR Experience
